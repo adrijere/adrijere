@@ -22,6 +22,7 @@ I'm focusing now on React, NextJS, NestJS.
 | --- | --- |
 | [Spartan Winner](https://spartanwinner.com/) | VueJS / NodeJS |
 | [GetWazabi](https://www.getwazabi.com/) | ReactJS / NodeJS |
+| [Sponseasy](https://sponseasy.com/) | ReactJS / Ruby on Rails |
 
 
 <!--
