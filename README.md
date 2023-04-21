@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi and welcome to my profile!
-I'm Jérémy, a 🇫🇷 developer who's currently working at **Capsule**, Paris.
+I'm Jérémy, a 🇫🇷 developer who's currently working at **Topo**, Paris.
 
 I am a JavaScript fanatic and a MVP builder. I'm developing in JS since I'm a teenager.
 
