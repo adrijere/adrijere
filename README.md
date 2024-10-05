@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi and welcome to my profile!
-I'm Jérémy, a 🇫🇷 developer who's currently working at **Topo**, Paris.
+I'm Jérémy, a 🇫🇷 developer who's currently working at **Lindy**, San Francisco.
 
 I am a JavaScript fanatic and a MVP builder. I've been developing in JS since I was a teenager.
 
@@ -9,10 +9,10 @@ I always work as FullStack developer in different startups around the world.
 I often work remotely and know how to work with a remote team!
 When I'm not pushing commits or debugging some Promises, I'm probably making coffee.
 
-I worked with VueJS, Rails, Golang during my previous experiences.
-I'm now focusing on React, NextJS, NestJS.
+I worked with VueJS, Rails and Golang during my previous experiences.
+I'm now focusing on React, NextJS, NestJS, Python.
 
-🌱 Currently, I'm learning Golang.
+🌱 Currently, I'm learning Python.
 
 📫 Reach me directly on my [Twitter](https://twitter.com/MPefi).
 
